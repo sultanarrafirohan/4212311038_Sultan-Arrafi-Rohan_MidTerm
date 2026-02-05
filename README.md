@@ -12,3 +12,5 @@ Kelas : Mekatronika B Malam
 • Lakukan sampling data sebanyak 13.000 sampel dari dataset tersebut. Pastikan sampel data memiliki total 26 classes dengan distribusi yang seimbang (masing-masing kelas 500 sampel).
 
 • Lakukan evaluasi performa menggunakan Leave-One-Out-Cross-Validation (LOOCV) dengan menampilkan confussion matrix, accuracy, precision dan F1-score.
+
+Link Youtube : https://youtu.be/6LzHooYtl5E
